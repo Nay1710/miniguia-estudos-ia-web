@@ -24,7 +24,7 @@ Nesta etapa, documentei o processo de "conversa" com a IA para obter o conhecime
 * *"Analise as fontes e crie um resumo focado em Arquitetura Fullstack, explicando o papel do Front-end (Vercel) e do Back-end (Gemini) na segurança da aplicação."*
 * *"Explique como o conceito de Agentes da IBM se encaixa na automação de processos via API."*
 
-  
+![Interface do NotebookLM](print-cicatrizes.png)
 
 ### "Cicatrizes" (Dificuldades e Troubleshooting):
 * **Desafio:** O resumo automático inicial do NotebookLM focou apenas nas funções básicas do Gemini (como ler imagens), ignorando a parte de arquitetura web.
